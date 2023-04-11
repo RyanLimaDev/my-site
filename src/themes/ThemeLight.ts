@@ -1,0 +1,27 @@
+export const ThemeLight = {
+    primary: '#006877',
+    onPrimary: '#ffffff',
+    primaryContainer: '#a4eeff',
+    onPrimaryContainer: '#001f25',
+    secondary: '#4b6268',
+    onSecondary: '#ffffff',
+    secondaryContainer: '#cde7ed',
+    onSecondaryContainer: '#051f24',
+    tertiary: '#545d7e',
+    onTertiary: '#ffffff',
+    tertiaryContainer: '#dce1ff',
+    onTertiaryContainer: '#111a37',
+    error: '#ba1a1a',
+    onError: '#ffffff',
+    errorContainer: '#ffdad6',
+    onErrorContainer: '#410002',
+    background: '#fbfcfd',
+    onBackground: '#191c1d',
+    surface: '#fbfcfd',
+    onSurface: '#191c1d',
+    outline: '#6f797b',
+    outlineVariant: '#CAC4D0',
+    surfaceVariant: '#dbe4e7',
+    onSurfaceVariant: '#3f484b'
+}
+
